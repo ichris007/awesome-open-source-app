@@ -866,4 +866,25 @@ You can see in which language an app is written. Currently there are following l
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position.  ![objective_c_icon] 
 - [Slate](https://github.com/jigish/slate) - Slate is a window management application similar to Divvy and SizeUp ![objective_c_icon] 
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.  ![objective_c_icon] 
-- [Yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. ![c_icon] ![objective_c_icon] 
+- [Yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning. ![c_icon] ![objective_c_icon]
+
+[app_store]: ./icons/app_store-16.png 'App Store.'
+[c_icon]: ./icons/c-16.png 'C language.'
+[cpp_icon]: ./icons/cpp-16.png 'C++ language.'
+[c_sharp_icon]: ./icons/csharp-16.png 'C# Language'
+[clojure_icon]: ./icons/clojure-16.png 'Clojure Language'
+[coffee_script_icon]: ./icons/coffeescript-16.png 'CoffeeScript language.'
+[css_icon]: ./icons/css-16.png 'CSS language.'
+[go_icon]: ./icons/golang-16.png 'Go language.'
+[elm_icon]: ./icons/elm-16.png 'Elm Language'
+[haskell_icon]: ./icons/haskell-16.png 'Haskell language.'
+[java_icon]: ./icons/java-16.png 'Java language.'
+[javascript_icon]: ./icons/javascript-16.png 'JavaScript language.'
+[lua_icon]: ./icons/Lua-16.png 'Lua language.'
+[objective_c_icon]: ./icons/objective-c-16.png 'Objective-C language.'
+[python_icon]: ./icons/python-16.png 'Python language.'
+[ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
+[rust_icon]: ./icons/rust-16.png 'Rust language.'
+[shell_icon]: ./icons/shell-16.png 'Shell language.'
+[swift_icon]: ./icons/swift-16.png 'Swift language.'
+[typescript_icon]: ./icons/typescript-16.png 'TypeScript language.'
